@@ -9,11 +9,12 @@
 6)Go to Settings -> Developer Settings -> Generate Classic Token(PAT)
 7)git remote set-url origin https://<PAT>@github.com<your_name><repo_name>.git
 8)git add <your_file>
-9)git push origin main
+9)git commit -m "Your message to be attached to the file to e pushed"
+10)git push origin main
 
 #The above command will push all the modifictaions to the repo.
 
-10) Changes can be verified through git status
+11) Changes can be verified through git status
 
 
 
